@@ -821,7 +821,7 @@ header a {
 }
 
 	.p1 {
-		width: 500px;
+		width: 90%;
 	}
 
 	.p1:hover {
@@ -859,7 +859,7 @@ header a {
 	}
 
 	.p1 {
-		width: 330px;
+		
 	}
 
 	.p1:hover {
@@ -941,7 +941,7 @@ header a {
 	flex-direction: column;
 	}
 	.p1 {
-		width: 360px;
+		
 		margin: 0 auto;
 		margin-bottom: 20px;
 	}
@@ -1074,7 +1074,7 @@ header a {
 	}
 
 	.p1 {
-		width: 80%;
+		
 	}
 
 	.det {
@@ -1083,7 +1083,7 @@ header a {
 	}
 
 	img.p1 {
-		width: 90%
+		
 	}
 
 	h3 {
