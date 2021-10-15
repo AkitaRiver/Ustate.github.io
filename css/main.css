@@ -841,18 +841,18 @@ header a {
 	}
 }
 
-@media screen and (max-width: 991px) {
+@media screen and (max-width: 1030px) {
 	body {
 		background-color: #2E34B2;
 	}
-
-	.menu-btn {
-    margin-right: -7px;
-}
-
 	.header {
 	background: url('../img/header-bg1.png') no-repeat center top / cover;
-}
+	}
+@media screen and (max-width: 991px) {
+	
+	.menu-btn {
+    margin-right: -7px;
+}	
 	
 	.container {
 		width: 720px;		
