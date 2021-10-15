@@ -273,7 +273,7 @@ header a {
 	align-items: center;
 	position: fixed;
 	top: 0;
-	backdrop-filter: blur(2.5px);
+	-webkit-backdrop-filter: blur(2.5px);
 	padding-top: 57px;
 	padding-right: 1700px;
   padding-bottom: -2px;
