@@ -891,7 +891,21 @@ header a {
 	.container {
 		width: 540px;
 	}
-
+.wrapper{
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  /*left: -100%;*/
+  right: -100%;
+  height: 100%;
+  width: 100%;
+  background: url('../img/button.svg') no-repeat center top / cover;
+  backdrop-filter: blur(10px);
+  /*background: linear-gradient(90deg, #f92c78, #4114a1);*/
+  /* background: linear-gradient(375deg, #1cc7d0, #2ede98); */
+ /* background: linear-gradient(-45deg, #e3eefe 0%, #efddfb 100%);*/
+  transition: all 0.6s ease-in-out;
+}
 	.offer {
 		margin-left: auto;
 		margin-right: auto;
