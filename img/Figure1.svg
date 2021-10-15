@@ -86,8 +86,8 @@
 <stop offset="1" stop-color="#90FEFF"/>
 </linearGradient>
 <linearGradient id="paint3_linear_189:1271" x1="125.791" y1="175.351" x2="248.546" y2="71.3772" gradientUnits="userSpaceOnUse">
-<stop stop-color="#DA22FF"/>
-<stop offset="1" stop-color="#9733EE"/>
+<stop stop-color="#9E22FF"/>
+<stop offset="1" stop-color="#6F33EE"/>
 </linearGradient>
 </defs>
 </svg>
